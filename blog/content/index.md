@@ -1,19 +1,24 @@
 ---
-title: My Digital Garden
+title: MES 工程師筆記
 tags:
   - main-index
+publish: true
 ---
 
-> A quiet place for thoughts to grow.
-
----
-
-欢迎来到我的数字花园。
-
-这里是用 [Obsidian](https://obsidian.md) 写作、[Quartz](https://quartz.jzhao.xyz) 渲染、[Vercel](https://vercel.com) 部署的个人知识库。
-
-主要内容包括：
+> 紀錄製造執行系統的實務經驗與技術細節。
 
 ---
 
-<small>🔗 [GitHub](https://github.com) · [RSS](/index.xml)</small>
+這是我在擔任 MES 工程師期間的個人筆記庫。
+
+內容涵蓋製造執行系統（MES）相關的系統開發、技術研究與專案紀錄，也包含周邊的開發工具與學習心得。
+
+主要內容包括：
+
+- 系統開發與架構規劃
+- 技術研究與問題排查
+- 專案紀錄與學習筆記
+
+---
+
+<small>[GitHub](https://github.com/Popkoler/meseng_obsidian_note) · [RSS](/index.xml)</small>
