@@ -3,7 +3,7 @@ configuration:
   # ============================================
   #  基础设置
   # ============================================
-  pageTitle: "MES 工程師筆記"
+  pageTitle: "Maverick's MES note"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

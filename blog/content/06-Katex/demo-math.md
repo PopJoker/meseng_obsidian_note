@@ -4,7 +4,7 @@ date: "2026-01-01"
 tags:
   - demo
   - math
-publish: true
+publish: false
 description: "LaTeX 数学公式全面测试——线性代数、微积分、概率论、统计学公式渲染效果。"
 ---
 

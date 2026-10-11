@@ -7,7 +7,7 @@ artist: "Erik Satie"
 genre: "印象主义 / 简约"
 difficulty: "中级"
 instrument: "钢琴"
-publish: true
+publish: false
 description: "萨蒂《裸体舞曲第一号》的乐理分析、和弦进行与练习要点。"
 ---
 

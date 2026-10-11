@@ -4,7 +4,7 @@ date: "2026-01-01"
 tags:
   - 课程笔记
 description: "数据科学导论第一讲：Python 环境配置与 NumPy 基础。"
-publish: true
+publish: false
 ---
 
 # 2026-01-01 数据科学导论

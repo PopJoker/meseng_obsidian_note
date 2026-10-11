@@ -4,7 +4,7 @@ date: "<% tp.date.now("YYYY-MM-DD") %>"
 tags:
   - 课程笔记
 description: ""
-publish: true
+publish: false
 ---
 
 # <% tp.file.title %>

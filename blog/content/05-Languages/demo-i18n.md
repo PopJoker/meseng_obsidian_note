@@ -4,7 +4,7 @@ date: "2026-01-01"
 tags:
   - demo
   - i18n
-publish: true
+publish: false
 description: "多语言内容渲染测试——中文、English、日本語、한국어、Français、Русский、العربية。"
 ---
 

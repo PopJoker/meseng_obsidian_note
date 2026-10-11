@@ -7,7 +7,7 @@ tags:
   - 课程大纲
 course: "数据科学导论"
 description: "数据科学导论课程学习全记录，含每日笔记索引与进度追踪。"
-publish: true
+publish: false
 ---
 
 # 示例课程：数据科学导论

@@ -4,7 +4,7 @@ date: "2026-01-01"
 tags:
   - demo
   - showcase
-publish: true
+publish: false
 description: "Quartz 博客系统全部功能的展示页面——Markdown、数学公式、多语言、代码高亮、Callout、表格等。"
 ---
 
