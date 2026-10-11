@@ -7,7 +7,7 @@ tags:
   - 课程大纲
 course: "<% tp.file.title %>"
 description: "<% tp.file.title %> 课程学习全记录，含每日笔记索引与进度追踪。"
-publish: true
+publish: false
 ---
 
 # <% tp.file.title %>
