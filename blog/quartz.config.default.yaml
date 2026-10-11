@@ -14,9 +14,12 @@ configuration:
     - ".git"
     - ".obsidian"
     - "blog"
-    - "00-Inbox"
-    - "02-Diary"
-    - "04-Templates"
+    - "94-Courses"
+    - "95-Music"
+    - "96-Languages"
+    - "97-Katex"
+    - "98-Futures"
+    - "99-Templates"
     - "vercel.json"
 
   # ============================================
