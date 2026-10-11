@@ -6,7 +6,7 @@
 >
 > 線上筆記舊網址：[https://popjoker.github.io/obsidian-notes/](https://popjoker.github.io/obsidian-notes/)
 >
-> 線上筆記新網址：[https://mesengobisidiannote.vercel.app/](https://mesengobisidiannote.vercel.app/)
+> 線上筆記新網址：[https://mesengobsidiannote.vercel.app/](https://mesengobsidiannote.vercel.app/)
 
 [中文](#中文) | [English](#english)
 
